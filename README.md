@@ -10,6 +10,9 @@
 - SWCC (New)
 - Others coming soon
 
+(instructions - use exe file to extract and then use)
+
+
 # Thank you for reading
 # youtube - https://www.youtube.com/channel/UCFtpb4dwodIcePrRqwX8rgw
 # discord - https://discord.gg/wmdrBZ5EMV
