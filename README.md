@@ -8,9 +8,10 @@
 - Sacromento
 - Canada
 - SWCC (New)
+- Cuesta College
 - Others coming soon
 
-(instructions - use exe file to extract and then use)
+(instructions - use exe file to extract and then use setup.py then bot.py)
 
 
 # Thank you for reading
